@@ -130,7 +130,7 @@ hr {
   margin: 2rem 0;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   .recipe-card {
     max-width: 100%;
     margin: 0;
